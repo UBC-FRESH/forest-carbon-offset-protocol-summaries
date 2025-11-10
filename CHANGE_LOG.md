@@ -15,3 +15,5 @@
 - Normalized special characters for LaTeX compatibility and generated individual PDFs plus combined handout at `outputs/forest-offset-handout.pdf`.
 - Added `publish/` submodule, automation Makefile, and updated documentation for building and syncing the public handout package.
 - Authored vulnerability briefing (`notes/vulnerabilities.md`), integrated new PDF build/publish workflow, and documented publish steps.
+- Extended build workflow to produce Markdown versions of handouts for mobile
+  access and updated publication README accordingly.

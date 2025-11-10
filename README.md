@@ -47,10 +47,10 @@ use the accompanying Makefile target:
 make all
 ```
 
-This target calls the build script, generates the vulnerabilities PDF, and copies
-the refreshed files plus the reference library into the publication repository,
-staging the updates so they can be reviewed and committed from within the
-submodule.
+This target calls the build script, generates both PDF and Markdown handouts,
+and copies the refreshed files plus the reference library into the publication
+repository, staging the updates so they can be reviewed and committed from within
+the submodule.
 
 You can modify `scripts/build-handout.sh` to add or reorder sections. Any Markdown
 files you pass to `pandoc` can include standard Pandoc/Markdown features such as

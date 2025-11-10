@@ -24,8 +24,11 @@ for src in "${SOURCES[@]}"; do
   fi
 done
 
-OUTPUT_FILE="$OUTPUT_DIR/forest-offset-handout.pdf"
+OUTPUT_PDF="$OUTPUT_DIR/forest-offset-handout.pdf"
+OUTPUT_MD="$OUTPUT_DIR/forest-offset-handout.md"
 
-pandoc "${INPUTS[@]}" -s -o "$OUTPUT_FILE"
+pandoc "${INPUTS[@]}" -s -o "$OUTPUT_PDF"
+pandoc "${INPUTS[@]}" -s -t gfm -o "$OUTPUT_MD"
 
-echo "Generated $OUTPUT_FILE"
+echo "Generated $OUTPUT_PDF"
+echo "Generated $OUTPUT_MD"
