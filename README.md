@@ -39,6 +39,17 @@ The script collects the four protocol summaries plus the comparison table and
 writes `outputs/forest-offset-handout.pdf`. The script validates that all source
 files exist and will create the `outputs/` directory if necessary.
 
+To rebuild the PDF and synchronise the publishable artefacts into the
+`publish/` submodule in one step, use the accompanying Makefile target:
+
+```bash
+make all
+```
+
+This target calls the build script and copies the refreshed PDF and reference
+library into the publication repository, staging the updates so they can be
+reviewed and committed from within the submodule.
+
 You can modify `scripts/build-handout.sh` to add or reorder sections. Any Markdown
 files you pass to `pandoc` can include standard Pandoc/Markdown features such as
 footnotes or tables.

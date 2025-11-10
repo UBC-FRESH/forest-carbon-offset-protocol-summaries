@@ -13,3 +13,4 @@
 - Captured Climate Action Reserve Forest Protocol highlights in `notes/extracts/car.md`, authored participant summary `summaries/car.md`, and updated planning trackers.
 - Drafted cross-standard KPI comparison table and discussion themes in `notes/comparison-table.md`; noted Phase 3 progress in roadmap/research tracker.
 - Normalized special characters for LaTeX compatibility and generated individual PDFs plus combined handout at `outputs/forest-offset-handout.pdf`.
+- Added `publish/` submodule, automation Makefile, and updated documentation for building and syncing the public handout package.
