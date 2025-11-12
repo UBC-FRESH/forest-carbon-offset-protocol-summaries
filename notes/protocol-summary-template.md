@@ -7,48 +7,23 @@
    - Recognized project categories (e.g., afforestation, improved forest management).
    - Notable companion programs (e.g., Climate, Community & Biodiversity Standards).
 
-2. **Governance & Protocol Setting**
-   - Decision-making structure, methodology approval workflow, funding model.
-   - Revision cadence and stakeholder engagement channels.
+2. **Carbon Accounting Protocols**
+   - Who establishes and funds the protocol; methodology governance; revision cadence.
+   - Baseline approach(es), additionality demonstrations, data sources, and modelling tools.
 
-3. **Baseline & Additionality Rules**
-   - Baseline approach(es) used.
-   - Additionality tests (financial/regulatory/barrier) and documentation expectations.
-   - Data sources or modelling tools prescribed.
+3. **Certificates**
+   - Credit issuance workflow, registry platform, serialization, and buffer/risk-sharing mechanisms.
+   - Eligible activities and emissions, market scope (compliance vs voluntary), buyer limitations, and linkage to other instruments.
 
-4. **Monitoring, Reporting, Verification (MRV)**
-   - Monitoring frequency, responsible parties, accepted methods.
-   - Validator qualifications, accreditation, and audit cycle.
-   - Non-conformity handling or corrective action process.
+4. **Carbon Reduction Confidence**
+   - Monitoring and verification responsibilities, frequency, accreditation, and corrective action processes.
+   - Permanence expectations, reversal management, buffer tools; materiality thresholds and uncertainty treatments; leakage scope, metrics, and deductions.
 
-5. **Credit Issuance & Registries**
-   - Steps from verification to issuance, registry platform, serialization.
-   - Buffer pool or other risk-sharing mechanisms and contribution rates.
-   - Crediting period length and renewal provisions.
+5. **Non-Carbon Metrics**
+   - Safeguards, stakeholder engagement, co-benefit requirements, and Indigenous/community obligations.
+   - Price premiums or third-party roles supporting safeguards, if applicable.
 
-6. **Eligible Activities & Credit Use**
-   - Project activity eligibility (forest types, land tenure).
-   - Market scope (compliance vs voluntary) and buyer limitations.
-   - Linkages to other policy instruments or trading schemes.
-
-7. **Safeguards & Co-benefits**
-   - Social/environmental safeguards, stakeholder consultation requirements.
-   - Co-benefit certification options or mandatory sustainable development contributions.
-   - Indigenous/community engagement obligations.
-
-8. **Permanence & Reversal Management**
-   - Permanence period expectations, monitoring tail length.
-   - Risk assessment tools, contingency plans, reversal procedures.
-
-9. **Materiality Thresholds & Data Quality**
-   - Materiality triggers, uncertainty thresholds, recalculation rules.
-   - Data quality or QA/QC requirements.
-
-10. **Leakage Assessment & Mitigation**
-    - Geographic scope, assessment methodologies, deduction application.
-    - Leakage monitoring and reporting obligations.
-
-11. **Recent Updates & Open Questions**
+6. **Recent Updates & Open Questions**
     - Key revisions impacting current practice.
     - Ambiguities or active debates to flag as discussion prompts.
 
@@ -60,17 +35,12 @@
 
 ## Comparison Table Schema
 
-| KPI | B.C. FCOP | Verra (VCS) | Gold Standard | Climate Action Reserve |
+| Design Element | B.C. FCOP | Verra (VCS) | Gold Standard | Climate Action Reserve |
 | --- | --- | --- | --- | --- |
-| Governance & Protocol Setting | Summary of oversight body, revision cadence, methodology pathway. | ... | ... | ... |
-| Baseline & Additionality Rules | Baseline method, additionality tests, key criteria. | | | |
-| MRV | Monitoring interval, verification requirements, validator accreditation. | | | |
-| Credit Issuance & Registries | Issuance steps, crediting period, buffer/fee highlights. | | | |
-| Eligible Activities & Credit Use | Project types, market scope, buyer restrictions. | | | |
-| Safeguards & Co-benefits | Safeguard requirements, stakeholder engagement, co-benefit programs. | | | |
-| Permanence & Reversal Management | Permanence period, risk mitigation tools, contingency accounts. | | | |
-| Materiality & Data Quality | Materiality threshold, uncertainty treatment, QA/QC expectations. | | | |
-| Leakage | Scope definitions, deduction rates, monitoring obligations. | | | |
+| Carbon Accounting Protocols | Governance, baseline, and additionality highlights. | ... | ... | ... |
+| Certificates | Issuance process, registry roles, eligible uses. | | | |
+| Carbon Reduction Confidence | MRV, permanence, materiality, leakage mechanisms. | | | |
+| Non-Carbon Metrics | Safeguards, co-benefits, stakeholder engagement. | | | |
 | Notable Updates / Discussion Prompts | Recent changes, open questions to explore. | | | |
 
 ### Table Guidance
@@ -78,4 +48,3 @@
 - Prioritize contrasts that feed workshop debate (e.g., differences in permanence handling).
 - Ensure terminology matches the narrative summaries and participant worksheet wording.
 - When including numeric ranges, add context (e.g., “Buffer: 10–20% depending on risk tier”).
-

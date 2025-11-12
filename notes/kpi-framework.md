@@ -5,19 +5,14 @@
 - Present quantitative details sparingly (e.g., crediting periods, buffer percentages, monitoring frequencies) to illustrate mechanisms without overwhelming non-experts.
 - Avoid highlighting controversial case studies in the handouts; if context is needed, frame it as a general thematic observation rather than citing specific scandals.
 
-## KPI Structure Aligned with Participant Worksheet
+## KPI Themes Aligned with Workshop Design Elements
 
-| Participant Worksheet Metric | Workshop KPI Label | Purpose & Content Scope | Optional Quantitative Touchpoints |
+| Design Element | Legacy KPIs | Purpose & Content Scope | Optional Quantitative Touchpoints |
 | --- | --- | --- | --- |
-| Establishment of (Carbon/Measurement) Protocols | **Governance & Protocol Setting** | Who owns/updates the standard, approval pathways for methodologies, funding model for protocol development, role of public vs. private actors. | Governance tiers, revision cycles, approval timelines. |
-| Baseline and Additionality Determination | **Baseline & Additionality Rules** | Baseline approaches (performance standard vs. project-specific), additionality tests (financial, regulatory, barriers), data requirements, modelling guidance. | Baseline period length, scenario modeling windows, benchmark datasets used. |
-| Monitoring and Verification | **Monitoring, Reporting, Verification (MRV)** | Monitoring frequency, data types, third-party validator roles, accreditation requirements, audit cadence, corrective action processes. | Monitoring interval years, verification cycle length, validator accreditation bodies. |
-| Issuance of Certificates | **Credit Issuance & Registries** | Steps from verification to issuance, registry requirements, buffer pool contributions, credit serialization, retirement mechanics. | Buffer % contributions, issuance fees, crediting period length. |
-| Use of Offsets | **Eligible Activities & Credit Use** | Project activity types, market segments served (compliance vs voluntary), buyer eligibility limits, program linkages. | Activity category definitions, credit eligibility restrictions per sector/jurisdiction. |
-| Incorporation of Non-Carbon Metrics | **Safeguards & Co-benefits** | Social and environmental safeguard requirements, co-benefit certification options, stakeholder engagement obligations, Indigenous/community provisions. | Required stakeholder engagement timelines, co-benefit scoring systems. |
-| Permanence | **Permanence & Reversal Management** | Crediting period vs. permanence obligations, buffer accounts, reversal response plans, risk assessment tools. | Buffer contributions (%), monitoring tail length (e.g., 40/100 years), reversal guarantee mechanisms. |
-| Materiality | **Materiality Thresholds & Data Quality** | Thresholds for reporting/verification, data quality expectations, uncertainty treatment, recalculation triggers. | Materiality % thresholds, uncertainty discount factors. |
-| Leakage | **Leakage Assessment & Mitigation** | Geographic scope for leakage, qualitative/quantitative requirements, leakage belt management, deductions applied. | Default leakage deduction %, applicable radii/distances. |
+| **Carbon Accounting Protocols** | 1, 2 | Who establishes and funds protocols; methodology approval pathways; baseline and additionality logic including data sources, modelling approaches, spatial/temporal scales, and project development funding. | Governance tiers, revision cycles, baseline period length, modelling horizons, benchmark datasets. |
+| **Certificates** | 4, 5 | How credits are issued, serialized, and retired; registry roles; buffer/fee structures; eligible project activities and emissions, and who can use offsets against which emissions. | Buffer contributions (%), issuance fees, crediting period length, eligible activity categories, buyer segmentation. |
+| **Carbon Reduction Confidence** | 3, 7, 8, 9 | Monitoring and verification responsibilities and incentives; permanence requirements and reversal management; materiality thresholds, data quality expectations, and uncertainty deductions; leakage scope, metrics, and deduction mechanisms. | Monitoring intervals, verification cycle length, buffer/risk percentages, materiality thresholds, leakage deduction factors. |
+| **Non-Carbon Metrics** | 6 | Social and environmental safeguard expectations, stakeholder engagement duties, co-benefit frameworks, and whether price premiums or third-party organisations support safeguards. | Stakeholder engagement timelines, co-benefit scoring systems, premium pricing examples. |
 
 ### Additional Cross-Cutting Elements to Capture
 - **Versioning & Recent Updates:** Note major revisions that influence current practice (e.g., BC FCOP 2024 changes).
@@ -26,5 +21,5 @@
 - **Interoperability with Other Standards:** Where protocols link to complementary schemes (e.g., VCS + CCB, CAR + California Cap-and-Trade), flag connections briefly.
 
 ## Next Actions
-- Use this KPI map to populate the summary template for each protocol, ensuring consistent headings and comparable depth.
-- When drafting the comparison table, order columns by this KPI sequence so participants can scan differences quickly.
+- Use the four design elements to structure summaries, vulnerabilities, and comparison tables so participants can rapidly compare programmes across consistent themes.
+- When analysing protocols, explicitly note how legacy KPI details map into each design element to preserve traceability to the worksheet prompts.
