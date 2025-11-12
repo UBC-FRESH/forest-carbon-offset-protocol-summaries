@@ -11,27 +11,26 @@ circulation; collaborators are actively reviewing and refining these notes.
 ## Carbon Accounting Protocols
 
 ### B.C. FCOP (2024)
-- Provincial government acts as both regulator and registry owner; limited transparency on how enforcement resourcing scales with project volume.
-- Heavy reliance on Project Proponent assertions (e.g., First Nations engagement attestation) without systematic public disclosure of consultation records.
-- Project-specific baseline pathway allows bespoke scenarios using internal modelling; reviewers must detect overly aggressive assumptions.
-- Financial additionality relies on assertions that offset revenue is required, yet limited transparency on cash flow models makes validation difficult.
+- Director under GGIRCA is responsible for accepting project plans and issuing offset units (e.g., BC FCOP §3.4; §8.4.3), and the protocol does not mandate public reporting of enforcement actions, leaving third parties reliant on ministry discretion.
+- Project plans must assert that prescribed First Nations engagement steps were completed and describe how feedback was handled (BC FCOP §3.1.6), but the protocol relies on proponent attestations and does not require publication of consultation records.
+- The project-specific baseline pathway lets proponents model candidate scenarios using project data and professional judgment (BC FCOP §5.2), putting pressure on validators to interrogate optimistic assumptions.
+- Financial additionality is demonstrated through project-plan assertions that offset revenue is required, supported by proponent-supplied analysis (BC FCOP §3.1; §3.8), so the review depends on the quality of project evidence.
 
 ### Verra VCS (v4.7)
-- Methodology approval pipeline can result in “method shopping,” where proponents select lenient legacy methodologies during grace periods.
-- Delegated validation/verification bodies create potential conflict-of-interest incentives, especially where developers repeatedly self-select auditors.
-- Activity-method “positive lists” deem projects additional without project-level investment analysis, enabling mature technologies in favourable jurisdictions.
-- Grace periods when methodologies are updated enable proponents to rush projects under older, more permissive baseline rules (“baseline hacking”).
+- Projects may keep using a retiring methodology version during Verra’s grace periods if they complete validation before the deadline (VCS Standard §3.22.3), enabling proponents to lock in earlier rules when timelines allow.
+- Project proponents contract and pay validation/verification bodies directly (Program Guide §2.5.3), so the independence of repeat engagements hinges on accreditation oversight and Verra’s sanctioning process.
+- Activity-method “positive lists” deem projects additional without project-level investment analysis (VCS Standard §3.14.2), which can favour mature technologies that appear on those lists.
 
 ### Gold Standard (v2.1 suite)
-- Multi-program governance (GSVERs, labels, SDG tools) elevates complexity; limited oversight on how stakeholder findings influence certification decisions.
-- Smaller project developers rely on consultants who may optimise for certificate issuance; suppressed-demand baselines can materially inflate results if national data are weak.
-- Financial additionality tools mirror CDM-era tests sensitive to developer-controlled hurdle rates.
+- Stakeholder consultation outcomes and responses are documented by the project developer and submitted to the validator (Stakeholder Consultation Requirements §3.6–§3.10), so external observers see only developer-supplied records.
+- Suppressed-demand baselines may be applied for eligible small-scale activities (Principles & Requirements §4.1.10), amplifying credit volumes if default assumptions are optimistic.
+- Projects demonstrate additionality using UNFCCC or Gold Standard tools (Principles & Requirements §4.1.48), meaning investment barriers are evaluated with developer-provided assumptions and parameters.
 
 ### Climate Action Reserve FPP (v5.1)
-- Reserve board approves projects while promoting programme adoption, creating reputational incentives to keep approvals moving quickly.
-- Professional Forester requirement ensures technical oversight but foresters are hired by proponents, opening incentives to maximise credits.
-- Standardised baseline relies on peer group averages; landowners with conservative history can benefit without additional action.
-- Avoided conversion projects may overstate development pressure via appraisals.
+- The Reserve administers the project review process and buffer pool through the Project Implementation Agreement and verification workflow (Forest Protocol §§3.6; 8.1), keeping oversight within the registry rather than an external regulator.
+- Validation and verification teams must include Registered Professional Foresters (Forest Protocol §8.1.1), but those experts are retained by project-hired validators, not a public enforcement body.
+- The default baseline for private IFM projects benchmarks carbon stocks against peer averages (Forest Protocol §6.2.1), allowing landowners already above the mean to claim storage without new interventions.
+- Avoided Conversion projects rely on developer-commissioned real estate appraisals to evidence conversion risk and quantify alternative land uses (Forest Protocol §6.3), so results hinge on appraisal assumptions.
 
 ## Certificates
 
@@ -47,7 +46,7 @@ circulation; collaborators are actively reviewing and refining these notes.
 
 ### Gold Standard (v2.1 suite)
 - Planned Emission Reductions monetise future sequestration ex-ante, incentivising optimistic forecasts.
-- Impact Registry authorisations for Article 6 rely on host-country reporting that may lag domestic inventories.
+- Article 6 authorisations depend on host country Letters of Authorisation and subsequent reporting to the UNFCCC Article 6 database, which can introduce lags before status updates appear (GHG Product Requirements Annex A §§1.2–1.4).
 - Positive list updates can lag emerging practices; contentious activities may remain eligible if framed as sustainable development.
 
 ### Climate Action Reserve FPP (v5.1)
@@ -58,14 +57,14 @@ circulation; collaborators are actively reviewing and refining these notes.
 ## Carbon Reduction Confidence
 
 ### B.C. FCOP (2024)
-- Monitoring intervals up to five years mean disturbances can go unreported for lengthy periods.
+- Project reports can cover up to five years at a time (BC FCOP §3.7), so disturbance disclosures may wait until the next reporting cycle even though offset issuance is paused until reporting is complete.
 - ISO-aligned monitoring plans reviewed only at validation/revalidation, allowing procedural drift.
 - Regional risk defaults (18/27/37 %) may lag evolving disturbance regimes, leaving contingency accounts undercapitalised.
 - 100-year monitoring obligation depends on project viability post-crediting; enforcement mechanisms unclear.
 - Optional leakage adjustments can rely on developer studies to justify lower deductions.
 
 ### Verra VCS (v4.7)
-- Materiality thresholds (5 % / 1 %) allow small biases to accumulate; desk-based verifications reduce chance of detecting field discrepancies.
+- Materiality thresholds of 5% (1% for large projects) and risk-based deferral of site visits allow some monitoring periods to be verified remotely until a mandatory visit comes due (VCS Standard §§4.1.10–4.1.14).
 - Projects can lower risk ratings with aspirational mitigation plans; buffer withdrawals for reversals are opaque.
 - Uncertainty deductions often use project-supplied statistics with limited auditor replication.
 - Activity and market leakage analysis frequently proprietary, limiting verification.
@@ -88,18 +87,18 @@ circulation; collaborators are actively reviewing and refining these notes.
 ## Non-Carbon Metrics
 
 ### B.C. FCOP (2024)
-- First Nations engagement requirement depends on project self-reporting; no central register confirms statements.
+- Ongoing First Nations engagement is tracked through project-plan and reporting assertions (BC FCOP §3.1.6), and the protocol does not establish a public registry to independently confirm those statements.
 
 ### Verra VCS (v4.7)
-- Stakeholder consultation records often limited to developer-produced minutes, making external validation difficult.
+- Stakeholder engagement documentation is compiled by the project and submitted to validators and Verra (VCS Standard §3.18; Program Guide §2.5), so external audiences rely on developer and VVB reporting.
 
 ### Gold Standard (v2.1 suite)
-- Extensive safeguard checklists risk becoming box-ticking exercises; verifiers may accept qualitative narratives without corroboration.
+- Safeguarding compliance is demonstrated through questionnaire responses and narrative evidence (Safeguarding Principles & Requirements §§4–5), which can default to qualitative reporting if reviewers do not request corroborating data.
 
 ### Climate Action Reserve FPP (v5.1)
-- Natural forest management rules focus on structural metrics; biodiversity monitoring beyond deadwood or age-class distributions is limited.
+- Natural Forest Management criteria emphasise native species composition, structural elements, and age-class balance (Forest Protocol §3.9), with comparatively little guidance on broader biodiversity monitoring.
 
 ## Notable Cross-Cutting Issues
-- Reliance on self-reported data is common across all standards; independent public registries rarely expose raw monitoring datasets.
-- Buffer pools and contingency accounts are backward-looking; climate risk is escalating faster than adjustment mechanisms.
-- Methodology grace periods create windows for “standard shopping,” rewarding developers who time submissions to lock in favourable rules.
+- Reliance on project-reported data is common across all standards; detailed monitoring datasets are typically shared with validators and registries rather than published in full.
+- Buffer pools and contingency accounts manage reversals based on prescribed risk tools (e.g., BC FCOP §8.4; VCS Standard §2.4; Forest Protocol §7.2), so adjustments may lag emerging climate risks unless programs refresh inputs.
+- Methodology grace periods and version transitions (e.g., VCS Standard §3.22.3; Gold Standard Rule Updates) create timing windows that attentive developers may use to retain favourable rules.
