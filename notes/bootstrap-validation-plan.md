@@ -24,13 +24,13 @@
 5. Capture follow-up tasks in a dedicated checklist at the end of `notes/bootstrap-validation.md`.
 
 ## Task Checklist
-- [ ] Prepare validation log template in `notes/bootstrap-validation.md` (protocol sections, status legend, follow-up table).
-- [ ] Validate BC FCOP summary claims.
-- [ ] Validate Verra VCS summary claims.
-- [ ] Validate Gold Standard summary claims.
-- [ ] Validate CAR summary claims.
-- [ ] Validate comparison table entries.
-- [ ] Validate vulnerabilities briefing bullets.
+- [x] Prepare validation log template in `notes/bootstrap-validation.md` (protocol sections, status legend, follow-up table).
+- [x] Validate BC FCOP summary claims.
+- [x] Validate Verra VCS summary claims.
+- [x] Validate Gold Standard summary claims.
+- [x] Validate CAR summary claims.
+- [x] Validate comparison table entries.
+- [x] Validate vulnerabilities briefing bullets.
 - [ ] Compile remediation task list and feed high-priority fixes back into Phase 4 QA.
 - [ ] Update `CHANGE_LOG.md` and roadmap when validation milestones complete.
 
