@@ -28,7 +28,7 @@ further updates as collaborators contribute edits and peer review feedback.
 - [Forest Offset Handout (Markdown)](outputs/forest-offset-handout.md)
 - [Forest Offset Vulnerabilities Briefing (PDF)](outputs/forest-offset-vulnerabilities.pdf)
 - [Forest Offset Vulnerabilities Briefing (Markdown)](outputs/forest-offset-vulnerabilities.md)
-- [Reference Library (index)](reference)
+- [Reference Library (index)](reference/)
 
 ## Reference Downloads
 
