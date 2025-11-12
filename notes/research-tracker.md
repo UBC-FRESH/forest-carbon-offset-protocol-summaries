@@ -93,8 +93,4 @@
   - Verify combined export at `outputs/forest-offset-handout.pdf` after any future edits.
 
 ## Vulnerabilities Evidence Backfill
-- **BC FCOP**: Investigate enforcement capacity/resourcing disclosures, availability of First Nations engagement records, and transparency of financial additionality documentation.
-- **Verra VCS**: Collect analyses or statements on methodology grace-period usage (“standard shopping”) and validator conflict-of-interest controls.
-- **Gold Standard**: Identify critiques of consultant incentives, suppressed-demand baselines, and safeguard enforcement effectiveness (including PER reversal data).
-- **Climate Action Reserve**: Gather evidence on Reserve governance incentives, avoided conversion appraisal practices, buffer risk recalibration in light of climate change, and verification deadline enforcement.
-- **Cross-Standard Themes**: Locate empirical research on registry data transparency, pooled buffer performance under increasing climate risk, and timing strategies for methodology updates across voluntary standards.
+- Completed: Added protocol citations for BC FCOP, Verra VCS, Gold Standard, CAR, and cross-program themes in `notes/vulnerabilities.md` / `notes/bootstrap-validation.md` to resolve outstanding ⚠️ flags.

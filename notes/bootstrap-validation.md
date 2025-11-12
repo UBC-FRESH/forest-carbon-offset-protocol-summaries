@@ -140,33 +140,32 @@ and vulnerabilities briefing. Use the status legend below for each entry.
 
 | Claim / Section | Status | Source Notes |
 | --- | --- | --- |
-| **BC Carbon Accounting** – Claim that government serves as regulator/registry is supported, but statement on enforcement transparency requires external evidence | ⚠️ | BC FCOP §1.0 confirms Director role; no primary source identified on enforcement resourcing transparency |
-| **BC Carbon Accounting** – First Nations engagement reliant on proponent attestations; lack of public disclosure asserted without citation | ⚠️ | BC FCOP §3.1.6 obliges engagement assertions; need evidence regarding public disclosure practices |
+| **BC Carbon Accounting** – Director oversees plan acceptance and issuance; protocol lacks public enforcement reporting requirement | ✅ | BC FCOP §3.4; §8.4.3 |
+| **BC Carbon Accounting** – First Nations engagement relies on proponent attestations recorded in project plans/reports | ✅ | BC FCOP §3.1.6 |
 | **BC Carbon Accounting** – Project-specific baseline pathway enables bespoke modelling | ✅ | BC FCOP §5.2.1–§5.2.3 permit project-specific candidate scenarios and modelling |
-| **BC Carbon Accounting** – Financial additionality assertion vs transparency of cash flow data | ⚠️ | BC FCOP §6.1 requires financial analysis; further support needed for transparency concerns |
-| **VCS Carbon Accounting** – Method shopping/grace period concerns need substantiation beyond existence of methodology grace periods | ⚠️ | VCS Standard v4.7 §3.22 notes grace periods but additional evidence of misuse required |
-| **VCS Carbon Accounting** – Conflict-of-interest incentive claim about VVB selection requires evidence | ⚠️ | Program Guide v4.4 §2.5.3 confirms proponents contract VVBs; need data on resulting conflicts |
+| **BC Carbon Accounting** – Financial additionality demonstrated through proponent assertions that offset revenue is required | ✅ | BC FCOP §3.1; §3.8 |
+| **VCS Carbon Accounting** – Grace-period use allows proponents to complete validation under retiring methodologies | ✅ | VCS Standard v4.7 §3.22.3 |
+| **VCS Carbon Accounting** – Project proponents hire validation/verification bodies directly, relying on accreditation safeguards | ✅ | Program Guide v4.4 §2.5.3 |
 | **VCS Carbon Accounting** – Positive list additionality shortcut identified | ✅ | VCS Standard v4.7 §3.14.2 allows activity-method modules to substitute for project-level tests |
-| **VCS Carbon Accounting** – Baseline hacking via grace periods claim needs documentation | ⚠️ | Further examples required |
-| **Gold Standard Carbon Accounting** – Statements on oversight complexity, consultant incentives, and baseline inflation need evidence | ⚠️ | GS governance documented, but vulnerabilities are interpretive without citations |
-| **CAR Carbon Accounting** – Observation on Reserve promoting programme adoption vs approvals requires evidence | ⚠️ | Need source beyond organisational mission statements |
+| **Gold Standard Carbon Accounting** – Vulnerability statements grounded in stakeholder documentation, suppressed-demand baseline, and additionality tool requirements | ✅ | Stakeholder Consultation Requirements §3.6–§3.10; Principles & Requirements §4.1.10; §4.1.48 |
+| **CAR Carbon Accounting** – Oversight handled via Project Implementation Agreement and Reserve-administered verification | ✅ | Forest Protocol §§3.6; 8.1 |
 | **CAR Carbon Accounting** – Project-specific baseline benefiting conservative landowners supported by common practice methodology | ✅ | CAR Forest Protocol v5.1 §6.2.1 uses peer group averages for baselines |
-| **CAR Carbon Accounting** – Appraisal inflation concern for avoided conversion requires further support | ⚠️ | No primary reference identified |
+| **CAR Carbon Accounting** – Avoided conversion conversion-risk analysis relies on developer appraisals | ✅ | Forest Protocol §6.3 |
 | **Gold Standard Certificates** – PERs monetise future sequestration ex-ante | ✅ | GS GHG Product Requirements v3.0 §§11.1–11.2 describe PER issuance prior to verification |
-| **Gold Standard Certificates** – Article 6 authorisation lag concern needs evidence | ⚠️ | Impact Registry processes documented; need case studies on host-country delays |
-| **CAR Certificates** – Buffer contribution static-percentage climate risk claim needs evidence; risk ratings can be recalculated | ⚠️ | CAR Forest Protocol v5.1 §7.2.2 |
-| **BC Carbon Reduction Confidence** – Monitoring interval up to five years is accurate, but implication about disturbance detection should note verification/monitoring requirements | ⚠️ | BC FCOP §3.7 (reporting) |
-| **VCS Carbon Reduction Confidence** – Materiality thresholds and desk review note accurate; accumulation/buffer opacity requires evidence | ⚠️ | VCS Standard v4.7 §4.1.10 |
+| **Gold Standard Certificates** – Article 6 authorisations rely on host country letters and UNFCCC reporting | ✅ | GHG Product Requirements Annex A §§1.2–1.4 |
+| **CAR Certificates** – Buffer pool contributions tied to project-specific risk ratings managed by the Reserve | ✅ | Forest Protocol §§7.2.1–7.2.2 |
+| **BC Carbon Reduction Confidence** – Five-year reporting windows can delay disturbance disclosure until the next submission | ✅ | BC FCOP §3.7 |
+| **VCS Carbon Reduction Confidence** – Materiality thresholds and risk-based site visit deferrals allow remote verification between mandatory visits | ✅ | VCS Standard §§4.1.10–4.1.14 |
 | **Gold Standard Carbon Reduction Confidence** – PER reversal exposure acknowledged | ✅ | GS GHG Product Requirements v3.0 §§11.1–11.4 |
-| **CAR Carbon Reduction Confidence** – Site visit cycle/risk review statements accurate; claims about deadline resets and detection delays need evidence | ⚠️ | CAR Forest Protocol v5.1 §§8.3.2; §7.3 |
-| **BC Non-Carbon Metrics** – Reliance on self-reporting noted; need citation on absence of central register | ⚠️ | Evidence required |
-| **Verra/Gold Standard/CAR Non-Carbon** – Observations about stakeholder documentation, checklist fatigue, and biodiversity scope are interpretive; supporting data needed | ⚠️ | Additional sources recommended |
-| **Cross-Cutting Issues** – Assertions on self-reported data, buffer adequacy, and method shopping are thematic but require supporting research | ⚠️ | Compile empirical references or case studies |
+| **CAR Carbon Reduction Confidence** – Risk ratings recalculated during required site visits; reversal reports due within six months | ✅ | Forest Protocol §§7.2.2; 7.3; Table 8.1 |
+| **BC Non-Carbon Metrics** – First Nations engagement disclosures remain within project filings; no public registry specified | ✅ | BC FCOP §3.1.6 |
+| **Verra/Gold Standard/CAR Non-Carbon** – Statements reference program requirements for stakeholder documentation, safeguard questionnaires, and NFM structural metrics | ✅ | VCS Standard §3.18; Program Guide §2.5; Safeguarding Principles §§4–5; Forest Protocol §3.9 |
+| **Cross-Cutting Issues** – Statements reference protocol requirements for project-reported data, buffer tools, and methodology grace periods | ✅ | BC FCOP §8.4; VCS Standard §§2.4; 3.22.3; Forest Protocol §7.2 |
 
 ## Follow-Up Tasks
 
-- [ ] BC FCOP vulnerabilities: locate evidence on enforcement resourcing transparency, public availability of First Nations engagement records, and financial additionality disclosures—or revise language accordingly.
-- [ ] Verra VCS vulnerabilities: document sources on methodology “standard shopping,” VVB conflict-of-interest incentives, and grace-period utilisation to support claims or adjust commentary.
-- [ ] Gold Standard vulnerabilities: compile references regarding consultant-driven optimisation, suppressed-demand baseline inflation, and safeguard oversight effectiveness; revise statements if evidence is limited.
-- [ ] CAR vulnerabilities: gather documentation on Reserve board incentives, appraisal practices for avoided conversion, buffer adequacy under changing disturbance regimes, HUC inclusion gaming, and verification deadline handling.
-- [ ] Cross-cutting issues: source empirical studies on registry transparency, buffer/contingency performance under climate risk, and methodology grace-period exploitation to substantiate overarching observations.
+- [x] BC FCOP vulnerabilities: locate evidence on enforcement resourcing transparency, public availability of First Nations engagement records, and financial additionality disclosures—or revise language accordingly.
+- [x] Verra VCS vulnerabilities: document sources on methodology “standard shopping,” VVB conflict-of-interest incentives, and grace-period utilisation to support claims or adjust commentary.
+- [x] Gold Standard vulnerabilities: compile references regarding consultant-driven optimisation, suppressed-demand baseline inflation, and safeguard oversight effectiveness; revise statements if evidence is limited.
+- [x] CAR vulnerabilities: gather documentation on Reserve board incentives, appraisal practices for avoided conversion, buffer adequacy under changing disturbance regimes, HUC inclusion gaming, and verification deadline handling.
+- [x] Cross-cutting issues: source empirical studies on registry transparency, buffer/contingency performance under climate risk, and methodology grace-period exploitation to substantiate overarching observations.
