@@ -53,6 +53,8 @@
 - [ ] Verify factual accuracy against primary sources; annotate any statements needing citation or confirmation.
 - [ ] Run Markdown lint/formatting checks as needed and update `CHANGE_LOG.md` per workflow contract.
 - [ ] Generate print-ready PDF via `pandoc`, spot-check layout, and iterate if typography impairs readability.
+- [x] Surface direct download links for all participant materials and reference documents in public-facing READMEs so GitHub Pages visitors can access assets easily.
+- [ ] Execute bootstrap validation workflow (`notes/bootstrap-validation-plan.md`) and capture findings/tasks in `notes/bootstrap-validation.md`.
 
 ## Phase 5 – Delivery & Follow-Up
 - [ ] Share Markdown sources, PDF handout, and comparison table with collaborators.
@@ -63,3 +65,9 @@
 - Are there priority audiences (e.g., policy, NGO, corporate) whose perspectives should shape language or examples?
 - Should we integrate any quantitative examples (e.g., credit issuance timelines) or keep all content purely qualitative?
 - Do we need to reference controversial case studies, or would that risk appearing judgmental for this audience?
+
+## Incoming
+
+User will add incoming notes for the coding agent here. The coding agent can clean up this section (remove notes) after items have been integrated into the official roadmap and planning docs.
+
+- _(no incoming items)_

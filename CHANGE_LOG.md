@@ -1,5 +1,12 @@
 # Change Log
 
+## 2025-11-12
+- Added workshop context preamble across public-facing assets (root README, publish README, handout sources) with event link, quick access listings, and attribution note.
+- Swapped publish README QR code to GitHub Pages URL and wired direct links to PDFs/Markdown/reference library for GitHub Pages visibility.
+- Introduced `summaries/preamble.md` and `pandoc/watermark.yaml`, updated build pipeline to inject a DRAFT watermark, enforce ASCII-friendly wording, and document new LaTeX package requirements.
+- Regenerated handout and vulnerabilities outputs (PDF/Markdown) via `make all`, synced refreshed artefacts into the `publish/` submodule.
+- Expanded both READMEs with direct download links to all reference documents so GitHub Pages visitors can access source materials without browsing the repository tree.
+
 ## 2025-11-10
 - Reviewed `CODING_AGENT.md` and inventoried existing workshop reference materials.
 - Authored `notes/roadmap.md` outlining objectives, phased task checklist, and deliverable format.
@@ -17,3 +24,6 @@
 - Authored vulnerability briefing (`notes/vulnerabilities.md`), integrated new PDF build/publish workflow, and documented publish steps.
 - Extended build workflow to produce Markdown versions of handouts for mobile
   access and updated publication README accordingly.
+- Refactored all KPI references into four design elements (Carbon Accounting Protocols,
+  Certificates, Carbon Reduction Confidence, Non-Carbon Metrics), updated summaries,
+  vulnerabilities, comparison table, and rebuilt outputs.

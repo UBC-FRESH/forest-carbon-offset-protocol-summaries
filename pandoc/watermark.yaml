@@ -1,0 +1,5 @@
+header-includes:
+  - \usepackage{draftwatermark}
+  - \SetWatermarkText{DRAFT}
+  - \SetWatermarkScale{1.2}
+  - \SetWatermarkLightness{0.85}
