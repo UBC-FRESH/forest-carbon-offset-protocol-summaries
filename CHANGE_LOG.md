@@ -17,3 +17,6 @@
 - Authored vulnerability briefing (`notes/vulnerabilities.md`), integrated new PDF build/publish workflow, and documented publish steps.
 - Extended build workflow to produce Markdown versions of handouts for mobile
   access and updated publication README accordingly.
+- Refactored all KPI references into four design elements (Carbon Accounting Protocols,
+  Certificates, Carbon Reduction Confidence, Non-Carbon Metrics), updated summaries,
+  vulnerabilities, comparison table, and rebuilt outputs.
