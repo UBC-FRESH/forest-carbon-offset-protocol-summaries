@@ -15,7 +15,7 @@
 - Project documentation must map baseline/project scenarios, SDG contributions, and monitoring indicators. *(Principles §4.1.12–§4.1.15; §4.1.40)*
 
 ## 3. Certificates
-- GSVERs issued post-verification; PERs (ex-ante) allowed for LUF projects (≤5 years) and agriculture (≤3 years) with 20 % buffer withholding and conversion after performance certification. *(GHG PR §§11.1–§11.2)*
+- GSVERs issued post-verification; PERs (ex-ante) allowed for LUF projects (valid for up to 5 years) and agriculture (up to 3 years) with 20 % buffer withholding and conversion after performance certification. *(GHG PR §§11.1–§11.2)*
 - Impact Registry manages serials, authorisations, and labels; dual certification permitted only with explicit Gold Standard approval to prevent double counting. *(Principles §2.3; GHG PR §10.1.2)*
 - Projects operating under other programs must ensure aggregated crediting periods do not exceed Gold Standard limits; pre-CDM issuance requires surrender commitments. *(GHG PR §§10.1.2, 10.7.1)*
 - Positive List enumerates eligible activities; smallholder definitions unlock tailored rules; stacking allowed under compatibility checks. *(Positive List; Smallholder §2; Principles §2.3)*

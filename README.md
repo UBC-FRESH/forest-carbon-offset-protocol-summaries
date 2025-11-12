@@ -5,6 +5,13 @@ four prominent forest carbon offset standards for a graduate-level crash course.
 The content is designed for neutral, non-judgmental discussion and includes both
 individual protocol briefs and a cross-standard comparison table.
 
+## Workshop Context
+
+These materials support the UBC Sustainability Hub event
+[Negotiation Innovation: Advancing Climate Action through Research and Learning](https://sustain.ubc.ca/events/negotiation-innovation-advancing-climate-action-through-research-and-learning).
+They are circulated as a working draft to prompt critical discussion; anticipate
+further updates as collaborators contribute edits and peer review feedback.
+
 ## Repository Structure
 
 - `summaries/` – Participant-facing summaries for each protocol (BC FCOP, VCS,
@@ -15,16 +22,25 @@ individual protocol briefs and a cross-standard comparison table.
 - `scripts/` – Automation helpers for building distribution assets.
 - `outputs/` – Generated handouts (PDF) ready for printing or distribution.
 
+## Quick Links
+
+- [Forest Offset Handout (PDF)](outputs/forest-offset-handout.pdf)
+- [Forest Offset Handout (Markdown)](outputs/forest-offset-handout.md)
+- [Forest Offset Vulnerabilities Briefing (PDF)](outputs/forest-offset-vulnerabilities.pdf)
+- [Forest Offset Vulnerabilities Briefing (Markdown)](outputs/forest-offset-vulnerabilities.md)
+- [Reference Library](reference)
+
 ## Build Requirements
 
 To regenerate the printable PDF bundle you will need:
 
 - [Pandoc](https://pandoc.org) 2.0 or newer.
-- A LaTeX engine available on your `PATH` (Pandoc defaults to `pdflatex`). On
-  Debian/Ubuntu you can install the minimal toolchain with:
+- A LaTeX engine available on your `PATH` (Pandoc defaults to `pdflatex`) plus
+  the `draftwatermark` package used for the DRAFT overlay. On Debian/Ubuntu you
+  can install the required toolchain with:
 
   ```bash
-  sudo apt-get install pandoc texlive-latex-base
+  sudo apt-get install pandoc texlive-latex-base texlive-latex-extra
   ```
 
 ## Reproducing the Handout PDF
@@ -67,3 +83,9 @@ footnotes or tables.
 
 All content in this repository is released under the Creative Commons Attribution
 4.0 International License (CC BY 4.0). See `LICENSE` for details.
+
+---
+
+_Acknowledgement_: These materials were assembled with assistance from an LLM coding
+agent. Content remains under active collaborator review; expect revisions as
+feedback is incorporated.

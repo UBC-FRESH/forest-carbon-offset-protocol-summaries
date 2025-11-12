@@ -36,7 +36,7 @@
 - **Safeguards:** Detailed social and environmental safeguard suite covering stakeholder wellbeing, labor rights, gender equity, indigenous rights, benefit-sharing agreements, biodiversity protection, and restrictions on ecosystem conversion. *(VCS Standard §3.19.1–3.19.29)*
 
 ## Permanence & Reversal Management
-- **Buffer system:** AFOLU projects conduct risk analysis via the AFOLU Non-Permanence Risk Tool; overall risk rating (minimum 12, max 60) converts directly to buffer percentage, with category thresholds (internal ≤35, external ≤20, natural ≤35). *(AFOLU NPRT §2.5.1–2.5.4)*
+- **Buffer system:** AFOLU projects conduct risk analysis via the AFOLU Non-Permanence Risk Tool; overall risk rating (minimum 12, max 60) converts directly to buffer percentage, with category thresholds (internal capped at 35, external at 20, natural at 35). *(AFOLU NPRT §2.5.1–2.5.4)*
 - **Pooled buffer oversight:** Verra reconciles pooled accounts periodically, adjusts risk tool parameters if needed, and reviews project risk reports. *(VCS Standard §2.4.2–2.4.3)*
 - **Reversal response:** Buffer cancellation covers verified losses; VCUs already issued remain permanent, preserving environmental integrity. *(VCS Standard §2.4.1; §3.15.16)*
 

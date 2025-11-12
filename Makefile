@@ -5,6 +5,7 @@ HANDOUT_MD=outputs/forest-offset-handout.md
 VULNERABILITIES=outputs/forest-offset-vulnerabilities.pdf
 VULNERABILITIES_MD=outputs/forest-offset-vulnerabilities.md
 VULNERABILITIES_SRC=notes/vulnerabilities.md
+PANDOC_WATERMARK=pandoc/watermark.yaml
 PUBLISH_DIR=publish
 
 all: build vulnerabilities publish-sync
@@ -13,13 +14,13 @@ build: $(HANDOUT) $(HANDOUT_MD)
 
 vulnerabilities: $(VULNERABILITIES) $(VULNERABILITIES_MD)
 
-$(HANDOUT) $(HANDOUT_MD): scripts/build-handout.sh
+$(HANDOUT) $(HANDOUT_MD): scripts/build-handout.sh $(PANDOC_WATERMARK)
 	@echo "[build] Generating handout outputs"
 	./scripts/build-handout.sh
 
-$(VULNERABILITIES): $(VULNERABILITIES_SRC)
+$(VULNERABILITIES): $(VULNERABILITIES_SRC) $(PANDOC_WATERMARK)
 	@echo "[build] Generating vulnerabilities PDF"
-	pandoc $(VULNERABILITIES_SRC) -s -o $(VULNERABILITIES)
+	pandoc $(VULNERABILITIES_SRC) -s --pdf-engine=pdflatex --metadata-file $(PANDOC_WATERMARK) -o $(VULNERABILITIES)
 
 $(VULNERABILITIES_MD): $(VULNERABILITIES_SRC)
 	@echo "[build] Preparing vulnerabilities Markdown"

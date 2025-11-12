@@ -68,8 +68,4 @@
 
 User will add incoming notes for the coding agent here. The coding agent can clean up this section (remove notes) after items have been integrated into the official roadmap and planning docs.
 
-- replace QR code with new github pages home page URL: https://ubc-fresh.github.io/forest-carbon-offset-protocol-summaries-publish/
-- add links to README to PDF documents and reference documents, so that they appear on github pages landing page
-- add DRAFT watermark to all pages of out output PDFs
-- add a "preamble" text to both handout summary PDF and README, so users of the public-facing published repo (and github pages site) have some context for what all this is about (and maybe link to the URL for the event for which this was prepared: https://sustain.ubc.ca/events/negotiation-innovation-advancing-climate-action-through-research-and-learning)
-- add a note at the bottom of the README file that we used a LLM coding agent to assist compiling the github pages site and compiling contents, and a caveat that the content has not undergone full peer review yet (but is planned, and currently underway, and to stay tuned for updates)
+- _(no incoming items)_

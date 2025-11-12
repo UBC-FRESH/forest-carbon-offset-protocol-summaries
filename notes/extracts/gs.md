@@ -24,13 +24,13 @@
 - Performance Certification compares monitored carbon stocks against issued PERs/GSVERs; shortfalls trigger remedial actions per Performance Shortfall Guidelines (GHG Product Requirements §11.4.1).
 
 ## Credit Issuance & Registries
-- VCUs equivalent: Gold Standard Verified Emission Reductions (GSVERs) issued post-performance certification; Planned Emission Reductions (PERs) allowed for A/R (≤5 years) and agriculture (≤3 years) with conversion to GSVERs after verification (§11.2.1–11.2.3).
+- VCUs equivalent: Gold Standard Verified Emission Reductions (GSVERs) issued post-performance certification; Planned Emission Reductions (PERs) allowed for A/R (valid for up to 5 years) and agriculture (up to 3 years) with conversion to GSVERs after verification (§11.2.1–11.2.3).
 - 20 % of issued PERs/GSVERs from sequestration components must be transferred to the Gold Standard Compliance Buffer; projects may substitute GSVERs from other projects to meet obligations (§11.1.1–11.1.2).
 - Impact Registry tracks serials, authorisations, and labels (e.g., Article 6 use); dual certification/stacking permitted only with Gold Standard approval and no double counting (Principles & Requirements §2.3; GHG Product Requirements §§10–15).
 
 ## Eligible Activities & Credit Use
 - Project types must match approved Activity Requirements or secure eligibility approval; Gold Standard excludes fossil fuel-based energy, geo-engineering, and other non-aligned technologies (Principles & Requirements §§4.1.3–4.1.7).
-- LUF Positive List identifies pre-approved afforestation/reforestation practices; smallholder definitions (≤25 ha holdings, income thresholds) set tailored requirements (RC 2025 Positive List; RU 2021 Smallholder Definition).
+- LUF Positive List identifies pre-approved afforestation/reforestation practices; smallholder definitions (holdings up to 25 ha, income thresholds) set tailored requirements (RC 2025 Positive List; RU 2021 Smallholder Definition).
 - Projects engaged in other standards must ensure aggregated crediting periods do not exceed Gold Standard limits; pre-CDM GSVERs allowed with surrender commitments (GHG Product Requirements §§10.1.2, 10.7.1).
 
 ## Safeguards & Co-benefits

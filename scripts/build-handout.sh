@@ -3,8 +3,11 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUTPUT_DIR="$ROOT_DIR/outputs"
+METADATA_WATERMARK="$ROOT_DIR/pandoc/watermark.yaml"
+PDF_ENGINE="${PDF_ENGINE:-pdflatex}"
 
 SOURCES=(
+  "summaries/preamble.md"
   "summaries/bc-fcop.md"
   "summaries/vcs.md"
   "summaries/gs.md"
@@ -24,10 +27,15 @@ for src in "${SOURCES[@]}"; do
   fi
 done
 
+if [[ ! -f "$METADATA_WATERMARK" ]]; then
+  echo "Missing watermark metadata: pandoc/watermark.yaml" >&2
+  exit 1
+fi
+
 OUTPUT_PDF="$OUTPUT_DIR/forest-offset-handout.pdf"
 OUTPUT_MD="$OUTPUT_DIR/forest-offset-handout.md"
 
-pandoc "${INPUTS[@]}" -s -o "$OUTPUT_PDF"
+pandoc "${INPUTS[@]}" -s --pdf-engine="$PDF_ENGINE" --metadata-file "$METADATA_WATERMARK" -o "$OUTPUT_PDF"
 pandoc "${INPUTS[@]}" -s -t gfm -o "$OUTPUT_MD"
 
 echo "Generated $OUTPUT_PDF"

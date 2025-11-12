@@ -1,5 +1,13 @@
 # Change Log
 
+# Change Log
+
+## 2025-11-12
+- Added workshop context preamble across public-facing assets (root README, publish README, handout sources) with event link, quick access listings, and attribution note.
+- Swapped publish README QR code to GitHub Pages URL and wired direct links to PDFs/Markdown/reference library for GitHub Pages visibility.
+- Introduced `summaries/preamble.md` and `pandoc/watermark.yaml`, updated build pipeline to inject a DRAFT watermark, enforce ASCII-friendly wording, and document new LaTeX package requirements.
+- Regenerated handout and vulnerabilities outputs (PDF/Markdown) via `make all`, synced refreshed artefacts into the `publish/` submodule.
+
 ## 2025-11-10
 - Reviewed `CODING_AGENT.md` and inventoried existing workshop reference materials.
 - Authored `notes/roadmap.md` outlining objectives, phased task checklist, and deliverable format.

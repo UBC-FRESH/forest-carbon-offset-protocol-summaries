@@ -22,7 +22,7 @@
 
 ## 4. Carbon Reduction Confidence
 - Annual monitoring with professional forester oversight; monitoring reports due within 12 months of each reporting period, even if verification deferred. *(FPP §8.2–§8.3)*
-- Verification schedule requires initial verification within 12 months and site visits at least every six reporting periods (≈6 years); failure triggers suspension/termination. *(FPP §8.3.2; Table 8.1)*
+- Verification schedule requires initial verification within 12 months and site visits at least every six reporting periods (around six years); failure triggers suspension/termination. *(FPP §8.3.2; Table 8.1)*
 - Baseline/on-site carbon updates use approved inventory methodologies, wood product accounting, and confidence deductions; negative annual totals trigger reversal procedures. *(FPP §6.1; §7.1)*
 - Buffer pool and reversal provisions distinguish avoidable vs unavoidable events, detailing notification, quantification, and compensation timelines. *(FPP §7.2–§7.3)*
 - Materiality managed via inventory confidence deductions, GIS acreage reconciliation, and professional standards. *(FPP §4.2; Appendix B)*

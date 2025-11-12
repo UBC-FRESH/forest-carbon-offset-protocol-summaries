@@ -1,9 +1,12 @@
 # Forest Carbon Offset Protocol Vulnerability Review
 
-This document highlights where each protocol may be susceptible to misuse or
+Prepared for the UBC Sustainability Hub event
+[Negotiation Innovation: Advancing Climate Action through Research and Learning](https://sustain.ubc.ca/events/negotiation-innovation-advancing-climate-action-through-research-and-learning),
+this document highlights where each protocol may be susceptible to misuse or
 unintended outcomes, organised by the same KPI framework used for the workshop
 summaries. The points flag areas that facilitators can use to spark critical
-discussion; they are not exhaustive audits.
+discussion; they are not exhaustive audits. _Status_: DRAFT for workshop
+circulation; collaborators are actively reviewing and refining these notes.
 
 ## Carbon Accounting Protocols
 
@@ -100,4 +103,3 @@ discussion; they are not exhaustive audits.
 - Reliance on self-reported data is common across all standards; independent public registries rarely expose raw monitoring datasets.
 - Buffer pools and contingency accounts are backward-looking; climate risk is escalating faster than adjustment mechanisms.
 - Methodology grace periods create windows for “standard shopping,” rewarding developers who time submissions to lock in favourable rules.
-
