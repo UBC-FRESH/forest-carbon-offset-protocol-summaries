@@ -53,7 +53,8 @@
 - [ ] Verify factual accuracy against primary sources; annotate any statements needing citation or confirmation.
 - [ ] Run Markdown lint/formatting checks as needed and update `CHANGE_LOG.md` per workflow contract.
 - [ ] Generate print-ready PDF via `pandoc`, spot-check layout, and iterate if typography impairs readability.
-- [ ] Surface direct download links for all participant materials and reference documents in public-facing READMEs so GitHub Pages visitors can access assets easily.
+- [x] Surface direct download links for all participant materials and reference documents in public-facing READMEs so GitHub Pages visitors can access assets easily.
+- [ ] Execute bootstrap validation workflow (`notes/bootstrap-validation-plan.md`) and capture findings/tasks in `notes/bootstrap-validation.md`.
 
 ## Phase 5 – Delivery & Follow-Up
 - [ ] Share Markdown sources, PDF handout, and comparison table with collaborators.
@@ -70,4 +71,3 @@
 User will add incoming notes for the coding agent here. The coding agent can clean up this section (remove notes) after items have been integrated into the official roadmap and planning docs.
 
 - _(no incoming items)_
-- QR code needs to be updated to point to: https://ubc-fresh.github.io/forest-carbon-offset-protocol-summaries-publish/
